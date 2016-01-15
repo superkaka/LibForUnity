@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <viewVersion>$(viewVersion)</viewVersion>
+  <buildVersion>$(buildVersion)</buildVersion>
+  <updateURL md5="$(md5)">http://填写下载地址.apk</updateURL>
+  <changeList>
+    <![CDATA[
+$(changeList)
+    ]]>
+  </changeList>
+</root>
